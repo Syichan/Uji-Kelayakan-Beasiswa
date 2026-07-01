@@ -1,0 +1,6 @@
+{
+  "name": "Kalkulator Simulasi Beasiswa",
+  "description": "Aplikasi simulasi kelayakan penerimaan beasiswa berdasarkan kriteria IPK dan pendapatan orang tua.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
